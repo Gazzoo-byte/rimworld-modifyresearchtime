@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChangeResearchSpeed>Change Research Speed</ChangeResearchSpeed>
+  <ChangeResearchSpeed.Global>Глобально</ChangeResearchSpeed.Global>
+  <ChangeResearchSpeed.CurrentGame>Текущая игра</ChangeResearchSpeed.CurrentGame>
+  <ChangeResearchSpeed.Factor>Коэффициент</ChangeResearchSpeed.Factor>
+  <ChangeResearchSpeed.Apply>Применить</ChangeResearchSpeed.Apply>
+  <ChangeResearchSpeed.ResearchTimesUpdated>Время исследований обновлено</ChangeResearchSpeed.ResearchTimesUpdated>
+  <ChangeResearchSpeed.AllowTechAdvance>Разрешить технический прогресс</ChangeResearchSpeed.AllowTechAdvance>
+  <ChangeResearchSpeed.AllowTechAdvanceToolTip>Если колония либо исследовала все текущие технологии плюс одну технологию из будущего технологического уровня, либо сумма всех исследованных технологий превышает количество технологий, необходимых для получения следующего технологического уровня, технологический уровень колонии переходит на следующий уровень.</ChangeResearchSpeed.AllowTechAdvanceToolTip>
+
+  <ChangeResearchSpeed.StaticNumberResearchPerTier>Статичное исследование на уровень</ChangeResearchSpeed.StaticNumberResearchPerTier>
+  <ChangeResearchSpeed.NeolithicNeeded>Неолит</ChangeResearchSpeed.NeolithicNeeded>
+  <ChangeResearchSpeed.MedievalNeeded>Средневековый</ChangeResearchSpeed.MedievalNeeded>
+  <ChangeResearchSpeed.IndustrialNeeded>Индустриальный</ChangeResearchSpeed.IndustrialNeeded>
+  <ChangeResearchSpeed.SpacerNeeded>Космический</ChangeResearchSpeed.SpacerNeeded>
+
+  <ChangeResearchSpeed.InvalidNeolithicInput>Неолит должен быть целым положительным числом</ChangeResearchSpeed.InvalidNeolithicInput>
+  <ChangeResearchSpeed.InvalidMedievalInput>Средневековый должен быть положительным целым числом</ChangeResearchSpeed.InvalidMedievalInput>
+  <ChangeResearchSpeed.InvalidIndustrialInput>Индустриальный должен быть положительным целым числом</ChangeResearchSpeed.InvalidIndustrialInput>
+  <ChangeResearchSpeed.InvalidSpacerInput>Космический должен быть положительным целым числом</ChangeResearchSpeed.InvalidSpacerInput>
+
+  <ChangeResearchSpeed.ResearchNeededSet>Исследования, необходимые для каждого технического уровня, были установлены</ChangeResearchSpeed.ResearchNeededSet>
+  <ChangeResearchSpeed.ResearchNeededDefaulted>Исследования, необходимые для каждого технического уровня, были установлены по умолчанию.</ChangeResearchSpeed.ResearchNeededDefaulted>
+
+  <ChangeResearchSpeed.Default>По умолчанию</ChangeResearchSpeed.Default>
+
+</LanguageData>
